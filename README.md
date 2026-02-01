@@ -1,4 +1,4 @@
-# 🕶️ Android App Security — Snippet Collection
+## 🕶️ Android App Security — Snippet Collection
 
 Questo repository raccoglie **solo snippet di codice da me scritti** durante l’analisi di vulnerabilità
 in applicazioni Android.  
@@ -19,9 +19,9 @@ Ogni analisi ha una propria sottocartella in `/snippets`, con:
 
 ---
 
-## 📁Analisi disponibili
+### 📁Analisi disponibili (solo codice)
 
-- [WebView — XSS](snippets/webview-xss/)
+- [WebView — XSS](snippets/webview/)
 - [Insecure Storage](snippets/insecure-storage/)
 - [Root Detection Bypass](snippets/root-detection-bypass/)
 
@@ -29,15 +29,15 @@ Ogni analisi ha una propria sottocartella in `/snippets`, con:
 
 ---
 
-## 📚Analisi complete su Notion
+### 📚Analisi complete su Notion
 
-Le analisi dettagliate — teoria, screenshot, diagrammi, attacchi e mitigazioni — sono disponibili su Notion:
+Le analisi dettagliate — teoria, screenshot, diagrammi, spiegazioni di attacchi e mitigazioni — sono disponibili su Notion:
 
 https://mgcyber.notion.site
 
 ---
 
-## Note
+### Note
 
 Questo repository ha scopo didattico e dimostrativo.  
 Tutti gli snippet presenti sono stati scritti da me e rappresentano solo le modifiche applicate durante le analisi.
