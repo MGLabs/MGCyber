@@ -5,7 +5,7 @@ Il Cross-Site Scripting attack si verifica quando input non attendibile viene mo
 Simulazione di input utente in un campo di testo il cui output viene quindi interpretato e mostrato in una WebView.
 
 ### 🛠️ Snippet delle modifiche
-→ link al file degli snippet
+[VulnerableWebView.java](xss/VulnerableWebView.java)
 
 ### 🛡️ Remediation
 OWASP Sanitizer e htmlEncode().
