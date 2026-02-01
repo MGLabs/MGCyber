@@ -1,16 +1,15 @@
-# 🧩 WebView — XSS
+## 🧩 WebView — XSS
+Il Cross-Site Scripting attack si verifica quando input non attendibile viene mostrato all’interno di una WebView senza essere adeguatamente sanitizzato .
 
-Breve descrizione dell’attacco e del contesto.
+### 📡 Attacco
+Simulazione di input utente in un campo di testo il cui output viene quindi interpretato e mostrato in una WebView.
 
-## 📡 Attacco
-Due righe che spiegano cosa hai fatto.
-
-## 🛠️ Snippet delle modifiche
+### 🛠️ Snippet delle modifiche
 → link al file degli snippet
 
-## 🛡️ Remediation
-Due righe sulla mitigazione.
+### 🛡️ Remediation
+OWASP Sanitizer e htmlEncode().
 
-## 🗒️ Analisi completa
+### 🗒️ Analisi completa
 Link alla pagina Notion.
 
