@@ -1,22 +1,45 @@
+# Android App Security — Snippet Collection
 
-# Android WebView – Presentazione & XSS Analysis
+Questo repository raccoglie **solo snippet di codice da me scritti** durante l’analisi di vulnerabilità
+in applicazioni Android.  
+Non contiene codice proprietario delle app vulnerabili utilizzate nei test.
 
-Questo repository contiene **solo gli snippet di codice da me scritti** per analizzare e mitigare
-comportamenti insicuri in una WebView all’interno di un’app vulnerabile di test (Allsafe).
-L'app originale **non è inclusa** ma potete trovarla in questo repo:
-[https://github.com/t0thkr1s/allsafe-android].
+L’obiettivo è fornire una raccolta ordinata e consultabile di:
+- patch applicate a componenti insicuri
+- configurazioni sicure
+- override critici
+- esempi di mitigazione
+- frammenti utili per analisi future
 
-## Contenuto del repository
-- `/snippets/webview_security_changes.md` → modifiche applicate all'activity VulnerableWebView.java
-- README.md → panoramica del progetto e link all’analisi completa
+Ogni analisi ha una propria sottocartella in `/snippets`, con:
+- codici sorgenti
+- un README sintetico
+- link all’analisi completa su Notion
 
-## Analisi completa
-L’analisi teorica e la dimostrazione pratica dell’attacco XSS sono disponibili su Notion:
 
-👉 https://mgcyber.notion.site/webview-analysis  
-👉 https://mgcyber.notion.site/webview-xss-attack
+---
+
+## Analisi disponibili
+
+- [WebView — XSS](snippets/webview-xss/)
+- [Insecure Storage](snippets/insecure-storage/)
+- [Root Detection Bypass](snippets/root-detection-bypass/)
+
+(La lista crescerà man mano che aggiungo nuove analisi.)
+
+---
+
+## Analisi complete su Notion
+
+Le analisi dettagliate — teoria, screenshot, diagrammi, attacchi e mitigazioni — sono disponibili su Notion:
+
+https://mgcyber.notion.site
+
+---
 
 ## Note
-Questo repository ha scopo didattico e dimostrativo.
-Non contiene codice proprietario dell’app vulnerabile utilizzata per i test.
+
+Questo repository ha scopo didattico e dimostrativo.  
+Tutti gli snippet presenti sono stati scritti da me e rappresentano solo le modifiche applicate durante le analisi.
+
 
