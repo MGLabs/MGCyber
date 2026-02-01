@@ -1,3 +1,16 @@
-La WebView è un componente Android che permette a un’app di visualizzare contenuti web al suo interno, senza dover aprire un browser esterno.
-Nelle sottocartelle trovate i file relativi a ciascun attacco analizzato e le rispettive remediation.
-Per una spiegazione didattica completa e approfondita, potete consultare la mia pagina Notion qui.
+# 🧩 WebView — XSS
+
+Breve descrizione dell’attacco e del contesto.
+
+## 📡 Attacco
+Due righe che spiegano cosa hai fatto.
+
+## 🛠️ Snippet delle modifiche
+→ link al file degli snippet
+
+## 🛡️ Remediation
+Due righe sulla mitigazione.
+
+## 🗒️ Analisi completa
+Link alla pagina Notion.
+
