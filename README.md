@@ -31,7 +31,7 @@ Ogni analisi ha una propria sottocartella in `/snippets`, con:
 
 ### 📚Analisi complete su Notion
 
-Le analisi dettagliate — teoria, screenshot, diagrammi, spiegazioni di attacchi e mitigazioni — sono disponibili su Notion:
+Le analisi dettagliate — teoria, screenshot, diagrammi, spiegazioni di attacchi e mitigazioni — sono disponibili sul mio sito:
 
 https://mgcyber.notion.site
 
