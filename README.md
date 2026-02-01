@@ -1,4 +1,4 @@
-# Android App Security — Snippet Collection
+# 🕶️ Android App Security — Snippet Collection
 
 Questo repository raccoglie **solo snippet di codice da me scritti** durante l’analisi di vulnerabilità
 in applicazioni Android.  
@@ -19,7 +19,7 @@ Ogni analisi ha una propria sottocartella in `/snippets`, con:
 
 ---
 
-## Analisi disponibili
+## 📁Analisi disponibili
 
 - [WebView — XSS](snippets/webview-xss/)
 - [Insecure Storage](snippets/insecure-storage/)
@@ -29,7 +29,7 @@ Ogni analisi ha una propria sottocartella in `/snippets`, con:
 
 ---
 
-## Analisi complete su Notion
+## 📚Analisi complete su Notion
 
 Le analisi dettagliate — teoria, screenshot, diagrammi, attacchi e mitigazioni — sono disponibili su Notion:
 
