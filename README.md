@@ -21,7 +21,7 @@ Ogni analisi ha una propria sottocartella in `/snippets`, con:
 
 ### 📁Analisi disponibili (solo codice)
 
-- [WebView — XSS](snippets/webview/)
+- [WebView](snippets/webview)
 - [Insecure Storage](snippets/insecure-storage/)
 - [Root Detection Bypass](snippets/root-detection-bypass/)
 
