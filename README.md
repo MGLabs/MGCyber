@@ -2,7 +2,7 @@
 
 Questo repository raccoglie **solo snippet di codice da me scritti** durante l’analisi di vulnerabilità
 in applicazioni Android.  
-Non contiene codice proprietario delle app vulnerabili utilizzate nei test.
+Non contiene eventuale codice proprietario delle app vulnerabili utilizzate nei test.
 
 L’obiettivo è fornire una raccolta ordinata e consultabile di:
 - patch applicate a componenti insicuri
@@ -14,7 +14,7 @@ L’obiettivo è fornire una raccolta ordinata e consultabile di:
 Ogni analisi ha una propria sottocartella in `/snippets`, con:
 - codici sorgenti
 - un README sintetico
-- link all’analisi completa su Notion
+- link all’analisi completa sul mio Notion
 
 
 ---
@@ -33,13 +33,13 @@ Ogni analisi ha una propria sottocartella in `/snippets`, con:
 
 Le analisi dettagliate — teoria, screenshot, diagrammi, spiegazioni di attacchi e mitigazioni — sono disponibili sul mio sito:
 
-https://mgcyber.notion.site
+https://mglabstudio.com
 
 ---
 
 ### Note
 
 Questo repository ha scopo didattico e dimostrativo.  
-Tutti gli snippet presenti sono stati scritti da me e rappresentano solo le modifiche applicate durante le analisi.
+Tutti gli snippet presenti rappresentano attacchi e mitigazioni emerse durante le analisi.
 
 
